@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Best Movies</string>
+    <string name="no_internet">No Internet connection !!</string>
+    <string name="no_data">No data fetched !!</string>
+    <string name="counter_likes">Counter of likes:</string>
+    <string name="id">id</string>
+    <string name="year">year</string>
+</resources>
